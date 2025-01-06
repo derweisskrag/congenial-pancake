@@ -1,0 +1,5 @@
+Sorting Report
+Moved 59486.jpg to C:\SortedPictures\Unknown 
+Moved TestPicture.jpg to C:\SortedPictures\Unknown 
+Total Files: 2 
+Total Folders: 1 
